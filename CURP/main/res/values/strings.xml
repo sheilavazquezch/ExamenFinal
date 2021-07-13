@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ExamenCURP</string>
+    <string name="nombre_string">Nombre(s):</string>
+    <string name="apellido_paterno_string">Apellido paterno:</string>
+    <string name="apellido_materno_string">Apellido materno:</string>
+    <string name="mes_string">Mes</string>
+    <string name="dia_string">Dia</string>
+    <string name="year_string">Año</string>
+    <string name="generar_string">Generar</string>
+    <string name="limpiar_string">Limpiar</string>
+    <string name="ingresar_nombre_string">Escribe tu(s) nombre(s)</string>
+    <string name="rfc_string">CURP</string>
+    <string name="ingresar_apellidop_string">Escribe tu apellido paterno</string>
+    <string name="ingresar_apellidom_string">Escribe tu apellido materno</string>
+    <string name="sexo_string">Sexo</string>
+    <string name="estado_string">Estado</string>
+</resources>
